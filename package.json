@@ -1,0 +1,16 @@
+{
+  "name": "nft-viewer",
+  "version": "1.0.0",
+  "description": "Ứng dụng xem thông tin NFT trên mạng BASE",
+  "main": "nft_viewer.js",
+  "scripts": {
+    "start": "node nft_viewer.js"
+  },
+  "dependencies": {
+    "web3": "^4.2.2",
+    "dotenv": "^16.3.1",
+    "axios": "^1.6.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
